@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋 I am an undergraduate student studying CSL (shorturl.at/iILV2) at Trinity College Dublin.
 
 <!--
 **prontopablo/prontopablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
