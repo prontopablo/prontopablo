@@ -9,7 +9,7 @@ I'm a software and game developer. I'm currently a 3rd year undergraduate studen
 
 
 <h3 align="left">Projects:</h3>
-[Elemental](https://github.com/prontopablo/Elemental): A physics based roguelike where you bend elements to your will
+[Elemental](https://github.com/prontopablo/Elemental): A physics-based roguelike where you bend elements to your will
 
 <h3 align="left">Education:</h3>
 Bachelor's degree in CSL, Trinity College Dublin (anticipated graduation date: 2024)
