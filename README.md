@@ -10,7 +10,7 @@ I'm a software and game developer. I'm currently a 3rd year undergraduate studen
 &nbsp;
 
 <h3 align="left">🚧 Projects:</h3>
-[Elemental](https://github.com/prontopablo/Elemental): A physics-based roguelike where you bend elements to your will
+[Celtica](https://github.com/prontopablo/Celtica): A physics-based roguelike where you bend elements to your will
 
 &nbsp;
 
