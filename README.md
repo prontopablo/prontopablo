@@ -10,8 +10,8 @@ I'm a software engineer and game developer. I'm currently a final year undergrad
 &nbsp;
 
 <h3 align="left">🚧 Projects:</h3>
-Celtica (https://github.com/prontopablo/Celtica) : A physics-based fighting game where you bend elements to your will
-Tamagotchi game in Bash and C : https://github.com/ParadauxIO/projet-systems
+Celtica (https://github.com/prontopablo/Celtica) : A physics-based fighting game where you bend elements to your will <br />
+Cow Game: (https://github.com/ParadauxIO/projet-systems) : Tamagotchi-like game written in Bash and C 
 
 
 &nbsp;
