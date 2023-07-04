@@ -18,7 +18,7 @@ Cow Game (https://github.com/ParadauxIO/projet-systems) : Tamagotchi-like game w
 &nbsp;
 
 <h3 align="left">📝 Education:</h3>
-Bachelor's degree in CSL, Trinity College Dublin (anticipated graduation date: 2024)
+Bachelor's degree in Computer Science, Linguistics and French, Trinity College Dublin (anticipated graduation date: 2024)
 
 &nbsp;
 
