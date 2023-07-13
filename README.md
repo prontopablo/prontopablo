@@ -42,10 +42,10 @@ I'm a software engineer. I'm currently a final year undergraduate student studyi
 &nbsp;
 
 <h3 align="left">🚧 Projects:</h3>
-DocumentToDatabase (https://github.com/prontopablo/DocumentToDatabase) : UI to preprocess, OCR and format scans of documents into SQL inserts
-Celtica (https://github.com/prontopablo/Celtica) : A physics-based fighting game where you bend elements to your will <br>
-EcoBrush DB (https://github.com/prontopablo/EcoBrush-DB) : SQL Database for a toothbrush company <br>
-Cow Game (https://github.com/ParadauxIO/projet-systems) : Tamagotchi-like game written in Bash and C 
+<b>DocumentToDatabase:</b> Preprocess, OCR and format documents into SQL inserts (https://github.com/prontopablo/DocumentToDatabase) <br>
+<b>Celtica:</b> A physics-based fighting game where you bend elements (https://github.com/prontopablo/Celtica) <br>
+<b>EcoBrush DB:</b> SQL Database for a toothbrush company (https://github.com/prontopablo/EcoBrush-DB) <br> 
+<b>Cow Game:</b> Tamagotchi-like game written in Bash and C (https://github.com/ParadauxIO/projet-systems)
 
 
 &nbsp;
