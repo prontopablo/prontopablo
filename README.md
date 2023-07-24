@@ -18,17 +18,8 @@ I'm a software engineer. I'm currently a final year undergraduate student studyi
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
-  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -39,7 +30,7 @@ I'm a software engineer. I'm currently a final year undergraduate student studyi
 </p>
 
 
-&nbsp;
+
 
 <h3 align="left">🚧 Projects:</h3>
 <b><a href="https://github.com/prontopablo/DocumentToDatabase">DocumentToDatabase</a>:</b> Preprocess, OCR and format documents into SQL inserts<br>
@@ -49,7 +40,6 @@ I'm a software engineer. I'm currently a final year undergraduate student studyi
 
 
 
-&nbsp;
 
 <h3 align="left">📝 Education:</h3>
 Bachelor's degree in Computer Science, Linguistics and French, Trinity College Dublin (anticipated graduation date: 2024)
