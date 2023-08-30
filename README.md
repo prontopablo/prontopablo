@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darragh</h1>
 
-I'm a software engineer. I'm currently a final year undergraduate student studying  [CSL](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/)
+I'm a software engineer. I'm currently a final year undergraduate student studying  [CSL](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prontopablo&label=Profile%20views&color=0e75b6&style=flat" alt="prontopablo" /> </p>
 
