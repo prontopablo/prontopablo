@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Darragh</h1>
-
-I'm a software engineer. I'm currently a final year undergraduate student studying  [CSL](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/).
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prontopablo&label=Profile%20views&color=0e75b6&style=flat" alt="prontopablo" /> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -42,8 +37,4 @@ I'm a software engineer. I'm currently a final year undergraduate student studyi
 
 
 <h3 align="left">📝 Education:</h3>
-Bachelor's degree in Computer Science, Linguistics and French, Trinity College Dublin (anticipated graduation date: 2024)
-
-&nbsp;
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prontopablo&" alt="prontopablo" /></p>
+<b><a href="https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/">Computer Science, Linguistics and French</a>, Trinity College Dublin </b> (anticipated graduation date: <b>May 2024</b>)
