@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Darragh</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -28,9 +27,9 @@
 
 
 <h3 align="left">🚧 Projects:</h3>
-<b><a href="https://github.com/prontopablo/DocumentToDatabase">DocumentToDatabase</a>:</b> Preprocess, OCR and format documents into SQL inserts<br>
+<b><a href="https://github.com/prontopablo/DocumentToDatabase">DocumentToDatabase</a>:</b> Preprocess, OCR and format documents<br>
 <b><a href="https://github.com/prontopablo/TechnoTome">TechnoTome</a>:</b> Website for a sci-fi book subscription service<br>
-<b><a href="https://github.com/prontopablo/DungeonBot">DungeonBot</a>:</b> An NPC creator for roleplaying games<br>
+<b><a href="https://github.com/prontopablo/DungeonBot">DungeonBot</a>:</b> NPC creator for roleplaying games<br>
 <b><a href="https://github.com/prontopablo/Contenterator">Contenterator</a>:</b> Website to play games against GPT-3.5<br>
 <b><a href="https://github.com/prontopablo/EcoBrush-DB">EcoBrush DB</a>:</b> SQL Database for a toothbrush company<br>
 
