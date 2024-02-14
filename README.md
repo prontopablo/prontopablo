@@ -1,31 +1,3 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://github.com/prontopablo/BusManagementSystem" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/prontopablo/DocumentToDatabase" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/prontopablo/TechnoTome" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/prontopablo/EcoBrush-DB" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/prontopablo/Celtica" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/ParadauxIO/projet-systems" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/prontopablo/Project-David" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-
 <h3 align="left">🚧 Projects:</h3>
 <b><a href="https://github.com/prontopablo/FIP">FIP</a>:</b> Real-time post-processing library for Processing<br>
 <b><a href="https://github.com/prontopablo/DocumentToDatabase">DocumentToDatabase</a>:</b> Turn your huge unsearchable PDFs into structured data<br>
