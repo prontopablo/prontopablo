@@ -1,5 +1,5 @@
 <h3 align="left">🚧 Projects:</h3>
-<b><a href="https://github.com/prontopablo/FIP">FIP</a> & <b><a href="https://github.com/prontopablo/p5.FIP">p5.FIP</a>:</b> Real-time post-processing library for Processing and p5.js.<br>
+<b><a href="https://github.com/prontopablo/FIP">FIP</a> & <b><a href="https://github.com/prontopablo/p5.FIP">p5.FIP</a>:</b> Real-time image processing library for Processing and p5.js.<br>
 <b><a href="https://github.com/prontopablo/DocumentToDatabase">DocumentToDatabase</a>:</b> Turn your huge unsearchable PDFs into structured data.<br>
 <b><a href="https://github.com/prontopablo/DungeonBot">DungeonBot</a>:</b> NPC creator for roleplaying games.<br>
 <b><a href="https://github.com/prontopablo/TechnoTome">TechnoTome</a>:</b> Website for a sci-fi book subscription service.<br>
